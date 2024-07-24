@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sura.com/static/css/main.a47f953e.css",
+    "main.js": "/sura.com/static/js/main.c4127380.js",
+    "static/media/HelveticaNeueMedium.otf": "/sura.com/static/media/HelveticaNeueMedium.38884ffafe8888205009.otf",
+    "static/media/Acorn-SemiBold.ttf": "/sura.com/static/media/Acorn-SemiBold.3ee3c1a11c553d4d181e.ttf",
+    "index.html": "/sura.com/index.html",
+    "main.a47f953e.css.map": "/sura.com/static/css/main.a47f953e.css.map",
+    "main.c4127380.js.map": "/sura.com/static/js/main.c4127380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47f953e.css",
+    "static/js/main.c4127380.js"
+  ]
+}
