@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/justme/static/css/main.2fac437b.css",
+    "main.js": "/justme/static/js/main.c4127380.js",
+    "static/media/HelveticaNeueMedium.otf": "/justme/static/media/HelveticaNeueMedium.38884ffafe8888205009.otf",
+    "static/media/Acorn-SemiBold.ttf": "/justme/static/media/Acorn-SemiBold.3ee3c1a11c553d4d181e.ttf",
+    "index.html": "/justme/index.html",
+    "main.2fac437b.css.map": "/justme/static/css/main.2fac437b.css.map",
+    "main.c4127380.js.map": "/justme/static/js/main.c4127380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fac437b.css",
+    "static/js/main.c4127380.js"
+  ]
+}
